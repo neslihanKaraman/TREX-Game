@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T-Rex Game", "T-Rex Game\T-Rex Game.csproj", "{FDBE684C-85F9-4EE4-B9F0-50DB8579A89D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "T-Rex Game Setup", "T-Rex Game Setup\T-Rex Game Setup.vdproj", "{5885D55F-2E8C-4E2E-BDF2-84EAE81634F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDBE684C-85F9-4EE4-B9F0-50DB8579A89D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDBE684C-85F9-4EE4-B9F0-50DB8579A89D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDBE684C-85F9-4EE4-B9F0-50DB8579A89D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDBE684C-85F9-4EE4-B9F0-50DB8579A89D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5885D55F-2E8C-4E2E-BDF2-84EAE81634F7}.Debug|Any CPU.ActiveCfg = Debug
+		{5885D55F-2E8C-4E2E-BDF2-84EAE81634F7}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C78B9DE-0DF6-462F-99DE-259625B0D7B6}
+	EndGlobalSection
+EndGlobal
